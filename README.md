@@ -58,7 +58,5 @@ Special thanks to Google Generative AI for providing access to the Gemini Pro AI
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ---
