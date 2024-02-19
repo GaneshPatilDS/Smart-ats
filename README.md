@@ -18,7 +18,7 @@ To run Smart ATS locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your_username/smart-ats.git
+   git clone https://github.com/GaneshPatilDS/Smart-ats.git
    cd smart-ats
    ```
 
